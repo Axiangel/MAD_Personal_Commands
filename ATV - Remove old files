@@ -1,0 +1,8 @@
+{
+  "ATV - Remove old files": [
+    {
+      "TYPE": "jobType.PASSTHROUGH",
+      "SYNTAX": "su -c 'rm -f /storage/emulated/0/gapps.zip /storage/emulated/0/Download/pogo/pogo.apk' && echo 'Files removed'"
+    }
+  ]
+}
